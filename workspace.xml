@@ -10,25 +10,32 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000011788277" />
-      <entry key="MS500" value="1.0163791011803298" />
-      <entry key="S2" value="1.3595084266534336" />
-      <entry key="S5" value="1.8496710096661002" />
-      <entry key="S10" value="2.98786638191501" />
-      <entry key="S30" value="7.0969448905850845" />
-      <entry key="S60" value="9.769226504046596" />
-      <entry key="M2" value="11.638687421927393" />
-      <entry key="M5" value="12.988273015299134" />
-      <entry key="M10" value="13.482171672092734" />
-      <entry key="M15" value="13.652062372965805" />
-      <entry key="M30" value="13.824656513965744" />
-      <entry key="H1" value="13.911981688314626" />
-      <entry key="H2" value="13.955903836640939" />
-      <entry key="H4" value="13.977930120597666" />
-      <entry key="D1" value="13.99631865540556" />
-      <entry key="W1" value="13.99947401934106" />
+      <entry key="MS100" value="1.5838303431455336" />
+      <entry key="MS500" value="2.2519136851362442" />
+      <entry key="S2" value="3.422579157330033" />
+      <entry key="S5" value="4.30742248474488" />
+      <entry key="S10" value="5.568249845278786" />
+      <entry key="S30" value="9.784042486386108" />
+      <entry key="S60" value="12.55612303073939" />
+      <entry key="M2" value="14.512228010759628" />
+      <entry key="M5" value="15.931924504153637" />
+      <entry key="M10" value="16.45294103029578" />
+      <entry key="M15" value="16.632332907048657" />
+      <entry key="M30" value="16.81466863560222" />
+      <entry key="H1" value="16.906956590053095" />
+      <entry key="H2" value="16.953383450681258" />
+      <entry key="H4" value="16.976667962498734" />
+      <entry key="D1" value="16.996108022286045" />
+      <entry key="W1" value="16.99944392219244" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -50,48 +57,48 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.858565437492834" />
-      <entry key="MS500" value="0.9859817109341085" />
-      <entry key="S2" value="1.3499200831765885" />
-      <entry key="S5" value="1.8445123534222785" />
-      <entry key="S10" value="2.9829206666903656" />
-      <entry key="S30" value="7.091128135280834" />
-      <entry key="S60" value="9.76471902873734" />
-      <entry key="M2" value="11.635841887918772" />
-      <entry key="M5" value="12.986958754383325" />
-      <entry key="M10" value="13.481481855323649" />
-      <entry key="M15" value="13.651594962962804" />
-      <entry key="M30" value="13.82441897362129" />
-      <entry key="H1" value="13.91186194611444" />
-      <entry key="H2" value="13.95584372086664" />
-      <entry key="H4" value="13.97790000133242" />
-      <entry key="D1" value="13.99631362698544" />
-      <entry key="W1" value="13.99947330078589" />
+      <entry key="MS100" value="0.7095688293908515" />
+      <entry key="MS500" value="1.3967529774555791" />
+      <entry key="S2" value="2.981266189617543" />
+      <entry key="S5" value="4.095264619669027" />
+      <entry key="S10" value="5.453219528400303" />
+      <entry key="S30" value="9.740003710244176" />
+      <entry key="S60" value="12.532275482202525" />
+      <entry key="M2" value="14.499644099079708" />
+      <entry key="M5" value="15.926696166434203" />
+      <entry key="M10" value="16.450290806710605" />
+      <entry key="M15" value="16.630557790014095" />
+      <entry key="M30" value="16.813776851770196" />
+      <entry key="H1" value="16.906509627581336" />
+      <entry key="H2" value="16.953159700007795" />
+      <entry key="H4" value="16.9765560195765" />
+      <entry key="D1" value="16.996089355726205" />
+      <entry key="W1" value="16.999441255310433" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3IinlseHoXXp8gBdj9TsHhfNulS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "last_opened_file_path": "C:/Users/tajouri/Webpage",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tajouri/Webpage&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
