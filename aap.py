@@ -5,14 +5,14 @@ from streamlit_lottie import st_lottie
 
 import streamlit as st
 
-# Hide the Streamlit footer and main menu
 hide_streamlit_style = """
-            <style>
-            #MainMenu {visibility: hidden;}
-            footer {visibility: hidden;}
-            header {visibility: hidden;} /* Optional: Hides the top header bar too */
-            </style>
-            """
+<style>
+#MainMenu {visibility: hidden;}
+header {visibility: hidden;}
+footer {visibility: hidden;}
+.stDeployButton {display:none;}
+</style>
+"""
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 st.set_page_config(page_title="My webpage", page_icon=":tada:", layout="wide")
