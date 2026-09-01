@@ -19,7 +19,7 @@ def load_lottieurl(url):
     
 lottie_coding = load_lottieurl("https://lottie.host/8e9ce5db-cfd7-40dd-84db-3ba776b29f5c/SyCbfqoUiu.json")
 
-image_contact_form=Image.open("image/code.png")
+image_contact_form=Image.open("code.png")
 def local_css(file_name):
     with open(file_name) as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
