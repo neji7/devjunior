@@ -16,3 +16,7 @@ textColor = '#FFFFFF'
 # Accepted values (serif | sans serif | monospace)
 # Default: "sans serif"
 font = "sans serif"
+[server]
+head="""
+<meta name="google-site-verification" content="vc7wFcPIpo7f47jWRdBHdczk538ArRmWJDPd3E9aqjE" />
+"""
